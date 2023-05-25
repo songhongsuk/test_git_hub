@@ -5,4 +5,6 @@ fun main(args: Array<String>) {
     println("git_update_3")
 
     println("git_update_4")
+
+    println("git_update_5")
 }
